@@ -1311,6 +1311,10 @@ table a,
         margin-right: 0;
     }
 
+    .pushright {
+				display: flex;
+		}
+
     .font-x2 {
         font-size: 1.4rem;
     }
